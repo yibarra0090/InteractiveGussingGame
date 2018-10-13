@@ -1,6 +1,8 @@
 //Yussef Ibarra
 import java.util.Scanner;
-
+/**
+ * Guesses the user's number between 1-100 using binary search.
+ */
 public class AIGame {
     public static void main(String[] args) {
         Scanner input = new Scanner(System.in);
